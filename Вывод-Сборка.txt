@@ -1,0 +1,5 @@
+﻿Сборка начата в 21:34...
+1>------ Сборка начата: проект: Project Terminal, Конфигурация: Debug Any CPU ------
+1>  Project Terminal -> C:\Users\user\source\repos\Project Terminal\Project Terminal\bin\Debug\Project Terminal.exe
+========== Сборка: успешно выполнено — 1 , со сбоем — 0, в актуальном состоянии — 0, пропущено — 0 ==========
+========== Сборка завершено в 21:34 и заняло 00,241 с ==========
